@@ -1,0 +1,2 @@
+https://spring.io/guides/gs/accessing-data-mysql/
+https://www.javainuse.com/spring/ang7-hello
